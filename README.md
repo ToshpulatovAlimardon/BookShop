@@ -1,4 +1,4 @@
-# DOM-change-tab
+# Book shop
 - JavaScript 
 - HTML5
 - Css3
